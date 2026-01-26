@@ -1,0 +1,23 @@
+{
+  "name": "smithclay-skills",
+  "owner": {
+    "name": "Clay Smith",
+    "email": "smithclay@gmail.com"
+  },
+  "metadata": {
+    "description": "Collection of skills created by @smithclay",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "ocaptain-skills",
+      "description": "Collection of skills for orchestration multiple instances of Claude Code with ocaptain",
+      "source": {
+        "source": "github",
+        "repo": "smithclay/ocaptain"
+      },
+      "strict": false,
+      "skills": ["./.claude/skills/voyage-plan"]
+    }
+  ]
+}
