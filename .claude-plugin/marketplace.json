@@ -24,6 +24,12 @@
       "description": "Create secret Claude Code tasks",
       "source": "./plugins/secret-tasks",
       "strict": false
+    },
+    {
+      "name": "oblique-strategies",
+      "description": "Share an oblique strategy",
+      "source": "./plugins/oblique-strategies",
+      "strict": false
     }
   ]
 }
