@@ -1,10 +1,17 @@
 # agentic skills and plugins from @smithclay
 
-## install
+## install via Claude Code marketplace
 
 ```bash
     /plugin marketplace add smithclay/skills
 ```
+
+## install via `npx skills`
+
+```bash
+    npx skills add smithclay/skills
+```
+
 ## development
 
 ```bash
