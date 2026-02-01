@@ -1,0 +1,9 @@
+{
+  "name": "secret-tasks",
+  "version": "0.1.0",
+  "description": "Generate and manage encrypted task files for secure multi-agent orchestration using the safe CLI",
+  "author": {
+    "name": "Clay Smoth"
+  },
+  "keywords": ["encryption", "tasks", "security", "safe"]
+}

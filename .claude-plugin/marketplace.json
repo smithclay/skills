@@ -18,6 +18,12 @@
       },
       "strict": false,
       "skills": ["./.claude/skills/voyage-plan"]
+    },
+    {
+      "name": "secret-tasks",
+      "description": "Create secret Claude Code tasks",
+      "source": "./plugins/secret-tasks",
+      "strict": false
     }
   ]
 }
